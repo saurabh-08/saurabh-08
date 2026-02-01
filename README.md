@@ -30,7 +30,7 @@ I am a Software Engineer based in Seattle, specializing in high-scale backend ar
 ---
 
 ### 📬 Connect
-[LinkedIn](https://www.linkedin.com/in/saurabh-aggarwal-ucf) • [GitHub](https://github.com/saurabh-08)
+[LinkedIn](https://www.linkedin.com/in/saurabhcodes) • [GitHub](https://github.com/saurabh-08)
 
 ---
 
